@@ -11,7 +11,7 @@ setup(
     install_requires=[required],
     url='',
     license='',
-    author='Hrushikesh',
+    author='c vijaya krishna',
     author_email='',
     description=''
 )
